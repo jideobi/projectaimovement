@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projectaimovement/static/css/main.e5708be4.css",
-    "main.js": "/projectaimovement/static/js/main.ef8cd91e.js",
+    "main.css": "/projectaimovement/static/css/main.490ebe12.css",
+    "main.js": "/projectaimovement/static/js/main.da8dbf22.js",
     "static/media/advert1.jpeg": "/projectaimovement/static/media/advert1.b997acba113c0a35959d.jpeg",
     "static/media/A-2.png": "/projectaimovement/static/media/A-2.f7c1556db2229218b295.png",
     "static/media/Logo.png": "/projectaimovement/static/media/Logo.f7c1556db2229218b295.png",
@@ -9,11 +9,11 @@
     "static/media/team-02.jpg": "/projectaimovement/static/media/team-02.e25f0805f25fdea1d3df.jpg",
     "static/media/teambg.jpg": "/projectaimovement/static/media/teambg.0e5b4275b84d06dcd9be.jpg",
     "index.html": "/projectaimovement/index.html",
-    "main.e5708be4.css.map": "/projectaimovement/static/css/main.e5708be4.css.map",
-    "main.ef8cd91e.js.map": "/projectaimovement/static/js/main.ef8cd91e.js.map"
+    "main.490ebe12.css.map": "/projectaimovement/static/css/main.490ebe12.css.map",
+    "main.da8dbf22.js.map": "/projectaimovement/static/js/main.da8dbf22.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5708be4.css",
-    "static/js/main.ef8cd91e.js"
+    "static/css/main.490ebe12.css",
+    "static/js/main.da8dbf22.js"
   ]
 }
