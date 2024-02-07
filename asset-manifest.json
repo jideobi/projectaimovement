@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/projectaimovement/static/css/main.d97fbeb3.css",
+    "main.js": "/projectaimovement/static/js/main.26a64570.js",
+    "static/media/advert1.jpeg": "/projectaimovement/static/media/advert1.b997acba113c0a35959d.jpeg",
+    "static/media/A-2.png": "/projectaimovement/static/media/A-2.f7c1556db2229218b295.png",
+    "static/media/Logo.png": "/projectaimovement/static/media/Logo.f7c1556db2229218b295.png",
+    "static/media/ceo.jpg": "/projectaimovement/static/media/ceo.03c56ec89aa1da6ad135.jpg",
+    "static/media/team-02.jpg": "/projectaimovement/static/media/team-02.e25f0805f25fdea1d3df.jpg",
+    "static/media/teambg.jpg": "/projectaimovement/static/media/teambg.0e5b4275b84d06dcd9be.jpg",
+    "index.html": "/projectaimovement/index.html",
+    "main.d97fbeb3.css.map": "/projectaimovement/static/css/main.d97fbeb3.css.map",
+    "main.26a64570.js.map": "/projectaimovement/static/js/main.26a64570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d97fbeb3.css",
+    "static/js/main.26a64570.js"
+  ]
+}
