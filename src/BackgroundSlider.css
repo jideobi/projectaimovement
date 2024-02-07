@@ -1,0 +1,25 @@
+
+
+/* .description{
+    width: 600px;
+  margin-top: -50%;
+   background-color: black;
+    color: aliceblue;
+    top: 2%;
+    left: 20%;
+} */
+.carousel-boult{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    justify-content: center;
+}
+.carousel-boult span {
+    width: 45px;
+    height: 5px;
+    background-color:orangered;
+    margin-left: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
