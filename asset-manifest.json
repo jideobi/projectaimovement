@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/projectaimovement/static/css/main.5c4a3764.css",
-    "main.js": "/projectaimovement/static/js/main.b9a1a73f.js",
+    "main.css": "/projectaimovement/static/css/main.caa74525.css",
+    "main.js": "/projectaimovement/static/js/main.b5a36db7.js",
     "static/media/groupsearch.jpg": "/projectaimovement/static/media/groupsearch.f79fbaeaa488c125498d.jpg",
     "static/media/Logo.png": "/projectaimovement/static/media/Logo.f7c1556db2229218b295.png",
-    "static/media/ceo.jpg": "/projectaimovement/static/media/ceo.03c56ec89aa1da6ad135.jpg",
     "static/media/team-02.jpg": "/projectaimovement/static/media/team-02.e25f0805f25fdea1d3df.jpg",
     "static/media/webdev.jpg": "/projectaimovement/static/media/webdev.e40524a2a7c1d183e4d3.jpg",
     "static/media/webdev2.webp": "/projectaimovement/static/media/webdev2.53d8063a0bf971e4beb7.webp",
     "static/media/teambg.jpg": "/projectaimovement/static/media/teambg.0e5b4275b84d06dcd9be.jpg",
     "index.html": "/projectaimovement/index.html",
-    "main.5c4a3764.css.map": "/projectaimovement/static/css/main.5c4a3764.css.map",
-    "main.b9a1a73f.js.map": "/projectaimovement/static/js/main.b9a1a73f.js.map"
+    "main.caa74525.css.map": "/projectaimovement/static/css/main.caa74525.css.map",
+    "main.b5a36db7.js.map": "/projectaimovement/static/js/main.b5a36db7.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c4a3764.css",
-    "static/js/main.b9a1a73f.js"
+    "static/css/main.caa74525.css",
+    "static/js/main.b5a36db7.js"
   ]
 }
